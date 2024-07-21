@@ -77381,7 +77381,7 @@
 		"0x1913FE4CBF41C463": {
 			"name": "SET_PED_CONFIG_FLAG",
 			"jhash": "0x9CFBE10D",
-			"comment": "PED_CONFIG_FLAG (PCF) enum: https://github.com/Illegal-Services/v_ped_stuff/blob/main/ePedConfigFlags.xml",
+			"comment": "PED_CONFIG_FLAG (PCF) enum: https://github.com/Illegal-Services/v_ped_stuff/blob/main/ePedConfigFlags.json",
 			"params": [
 				{
 					"type": "Ped",
@@ -77402,7 +77402,7 @@
 		"0xC1E8A365BF3B29F2": {
 			"name": "SET_PED_RESET_FLAG",
 			"jhash": "0xCFF6FF66",
-			"comment": "PED_RESET_FLAG (PRF) enum: https://github.com/Illegal-Services/v_ped_stuff/blob/main/ePedResetFlags.xml",
+			"comment": "PED_RESET_FLAG (PRF) enum: https://github.com/Illegal-Services/v_ped_stuff/blob/main/ePedResetFlags.json",
 			"params": [
 				{
 					"type": "Ped",
@@ -97847,7 +97847,7 @@
 		"0xB0760331C7AA4155": {
 			"name": "GET_IS_TASK_ACTIVE",
 			"jhash": "0x86FDDF55",
-			"comment": "Task index enum: https://github.com/Illegal-Services/v_ped_stuff/blob/main/eTaskTypeIndex.h",
+			"comment": "Task index enum: https://github.com/Illegal-Services/v_ped_stuff/blob/main/eTaskTypes.json",
 			"params": [
 				{
 					"type": "Ped",
